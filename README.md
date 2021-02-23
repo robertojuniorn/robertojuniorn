@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I'm interested in Web Development. 
  
  
-             (/imagem (2)ddf.png?raw=true)
+             imagem (2)ddf.png?raw=true
  
  
